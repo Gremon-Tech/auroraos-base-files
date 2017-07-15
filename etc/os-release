@@ -1,0 +1,8 @@
+PRETTY_NAME="AuroraOS #OSNAME# Internal Preview"
+NAME="AuroraOS #OSNAME#"
+VERSION_ID="1.0"
+VERSION="1.0"
+ID=debian
+HOME_URL=""
+SUPPORT_URL=""
+BUG_REPORT_URL=""
